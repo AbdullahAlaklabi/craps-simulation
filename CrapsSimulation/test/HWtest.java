@@ -17,7 +17,7 @@ public class HWtest
    
     public void test2()
 {
-	    assertEquals("CrookedDie1.testStatic()", CrookedDie1.testStatic());
+	        assertEquals("CrookedDie1.testStatic()", CrookedDie1.testStatic());
 		Die test2 = new CrookedDie1();
 }
 
